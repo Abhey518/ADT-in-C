@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1749150456 source:c:\users\user\desktop\dsa practicals\stackstringreverser - linked implementation\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

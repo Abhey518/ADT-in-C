@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748687576 source:c:\users\user\desktop\dsa practicals\double-ended queue\dequeue.c
+	<stdio.h>
+	<stdlib.h>
+

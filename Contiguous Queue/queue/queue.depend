@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1748680519 source:c:\users\user\desktop\dsa practicals\contiguous queue\queue\queue.c
+	<stdio.h>
+	<stdlib.h>
+
