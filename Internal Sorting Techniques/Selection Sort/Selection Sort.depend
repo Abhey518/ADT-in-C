@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1749728485 source:c:\users\user\desktop\dsa practicals\internal sorting techniques\selection sort\main.c
+	<stdio.h>
+	<stdlib.h>
+
