@@ -1,4 +1,4 @@
-#include <stdio.h>
+z#include <stdio.h>
 #include <stdlib.h>
 
 // Define an Queue
@@ -69,11 +69,10 @@ void displayQueue(const Queue *q) {
         return;
     }
     printf("Queue Elements: ");
-    int index = q -> front;
 
-    for ( int i = 0; i < q->count; i++) {
-        printf("%d ", q -> items[index]);
-        index = (index + 1) % MAXQUEUE;
+    for ( int i = q -> front; i <= q->rear; i++) {
+        printf("%d ", q -> items[i]);
+        
     }
     printf("\n");
 }
